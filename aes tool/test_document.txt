@@ -1,0 +1,2 @@
+This is a test message for my encryption tool.
+It should be encrypted and then decrypted successfully!
